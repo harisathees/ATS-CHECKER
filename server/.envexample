@@ -1,0 +1,15 @@
+# Server
+PORT=5000
+
+# Gemini AI
+GEMINI_API_KEY=GEMINI_API_KEY
+
+# MySQL Database
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=ats_resume_db
+
+# Google Auth Client ID (Required to verify Google login tokens)
+GOOGLE_CLIENT_ID=your-google-client-id-here.apps.googleusercontent.com
